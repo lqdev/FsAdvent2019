@@ -2,16 +2,18 @@
 
 This application is part of [F# Advent 2019](https://sergeytihon.com/2019/11/05/f-advent-calendar-in-english-2019/).
 
-The purpose of it is to train a machine learning multiclass classification model that categorizes bookmarked links using ML.NET.
+The purpose of it is to train a machine learning multiclass classification model that categorizes web links using ML.NET.
+
+For a detailed writeup on how to build this application see the [Use machine learning to categorize web links with F# and ML.NET blog post](2019/12/17/categorize-web-links-ml-net-fsharp-fsadvent2019/)
 
 ## Prerequisites
 
 This application was built on a Windows 10 PC, but should work cross-platform.
 
-- .NET Core SDK
-- Visual Studio Code
-- Ionide
-- Microsoft.ML NuGet Package
+- [.NET Core SDK 2.1+](https://dotnet.microsoft.com/download)
+- [Visual Studio Code](https://code.visualstudio.com/Download)
+- [Ionide](http://ionide.io/)
+- [Microsoft.ML NuGet package](https://www.nuget.org/packages/Microsoft.ML/)
 
 ## Get the data
 
