@@ -4,7 +4,7 @@ This application is part of [F# Advent 2019](https://sergeytihon.com/2019/11/05/
 
 The purpose of it is to train a machine learning multiclass classification model that categorizes web links using ML.NET.
 
-For a detailed writeup on how to build this application see the [Use machine learning to categorize web links with F# and ML.NET blog post](2019/12/17/categorize-web-links-ml-net-fsharp-fsadvent2019/)
+For a detailed writeup on how to build this application see the [Use machine learning to categorize web links with F# and ML.NET blog post](http://luisquintanilla.me/2019/12/17/categorize-web-links-ml-net-fsharp-fsadvent2019/)
 
 ## Prerequisites
 
